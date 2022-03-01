@@ -18,7 +18,6 @@
 			background-image: linear-gradient(to top, black, transparent), url(images/background.jpg);
 			background-size: cover;
 		}
-
 		.navbar{
 			display: flex;
 			align-items: center;
@@ -372,7 +371,7 @@
 		.here section h2{
 			background-color: white;
 			font-weight: bold;
-			font-size: 30px;
+			font-size: 20px;
 			padding: 20px;
 			width: 100%;
 			border-radius: 10px;
