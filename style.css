@@ -293,6 +293,7 @@
 		.details{
 			display: flex;
 			flex-wrap: wrap;
+			justify-content: center;
 			background-color: white;
 			width: 450px;
 			height: 200px;
