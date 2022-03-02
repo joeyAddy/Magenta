@@ -319,7 +319,7 @@
 		.bestseller{
 			display: flex;
 			align-items: center;
-			min-height: 170vh;
+			min-height: 140vh;
 			width: 100%;
 			background-color: #000;
 			flex-direction: column;
