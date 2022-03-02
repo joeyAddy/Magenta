@@ -697,3 +697,9 @@
 			padding: 8px;
 
 		}
+		
+
+		.shopmain{
+			display: flex;
+			justify-content: center;
+			align-items: center;
